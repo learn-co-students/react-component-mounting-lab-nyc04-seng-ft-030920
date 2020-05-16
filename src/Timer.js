@@ -11,7 +11,7 @@ class Timer extends Component {
   }
 
   componentWillUnmount() {
-    this.handleClose
+    this.stopClock
   }
   // add your code here
 
